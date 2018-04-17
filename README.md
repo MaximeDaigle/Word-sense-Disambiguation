@@ -22,3 +22,6 @@ The data used come from:  http://www.d.umn.edu/~tpederse/data.html
 
 > The sense-tagged interest data is taken from the pos-tagged portion of the WSJ that appears in the ACL/DCI version of the Penn Treebank. Each instance of interest is tagged with one of six possible LDOCE senses.
 
+
+
+(work in progress)
