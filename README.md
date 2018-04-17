@@ -2,7 +2,7 @@
 
 > Word-sense disambiguation (WSD) is an open problem of natural language processing. WSD is identifying which sense of a word (i.e. meaning) is used in a sentence, when the word has multiple meanings.
 
--https://en.wikipedia.org/wiki/Word-sense_disambiguation
+https://en.wikipedia.org/wiki/Word-sense_disambiguation
 
 The goal of this project is to train a program to be able to identify which of the 6 meaning of the word 'interest' is used in a sentence.
 
