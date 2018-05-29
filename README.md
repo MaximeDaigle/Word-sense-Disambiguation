@@ -4,7 +4,7 @@
 
 https://en.wikipedia.org/wiki/Word-sense_disambiguation
 
-The goal of this project is to train a program to be able to identify which of the 6 meaning of the word 'interest' is used in a sentence.
+The goal of this project is to (with the use of weka) train a program to be able to identify which of the 6 meaning of the word 'interest' is used in a sentence .
 
 The data used come from:  http://www.d.umn.edu/~tpederse/data.html
 > 2368 occurrences in the sense tagged corpus, where each occurrence is a single sentence that contains the word 'interest'.
